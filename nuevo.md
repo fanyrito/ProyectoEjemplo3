@@ -4,3 +4,4 @@ int main (void)
 }
 
 Mas lineas
+ doc 2 nuevo s
